@@ -1,14 +1,5 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base",
-    ":timezone(Asia/Tokyo)",
-    ":automergeMinor",
-    ":automergeBranch",
-    ":semanticCommitType(build)",
-    ":prNotPending",
-    ":label(dependencies)",
-    "schedule:weekdays"
-  ],
-  "rangeStrategy": "bump"
+    "github>enjoyjs/renovate-config"
+  ]
 }
