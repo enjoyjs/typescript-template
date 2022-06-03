@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/enjoyjs/typescript-template#readme",
   "devDependencies": {
-    "@enjoyjs/tsconfig": "^3.0.1",
+    "@enjoyjs/tsconfig": "^4.0.0",
     "@types/xo": "^0.39.2",
     "typescript": "^4.7.2",
     "xo": "^0.49.0"
