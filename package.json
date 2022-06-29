@@ -3,9 +3,10 @@
   "name": "@enjoyjs/typescript-template",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
+  "main": "index.js",
   "scripts": {
+    "test": "",
     "lint": "tsc --noEmit && xo",
     "lint:fix": "tsc --noEmit && xo --fix"
   },
